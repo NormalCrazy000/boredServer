@@ -6,7 +6,7 @@ boredServer is a python client-server software to share files between two devces
 
 Run client.py to device that send files and run server.py to device that receive files.
 Set in client.py on line 12 the server's path where save files.
-If you use smartphone/tablet to client-side install a linux  terminal(EX [Te](https://termux.dev/en/)).
+If you use smartphone/tablet to client-side install a linux  terminal(EX [Termux](https://termux.dev/en/)).
 
 ## License
 
